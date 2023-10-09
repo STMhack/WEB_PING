@@ -5,5 +5,7 @@ pkg install python3
 pkg install openssl
 
 pip install lolcat
+
 pip install figlet
+
 pip install subprocess

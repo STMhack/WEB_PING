@@ -1,11 +1,12 @@
 # WEB_PING
-web link or ip ping can scan👾👾👾
+👾👾👾###"web link or ip ping can scan"###👾👾👾
 
-pkg install python3
-pkg install openssl
 
-pip install lolcat
+➡️ pkg install python3
+➡️ pkg install openssl
 
-pip install figlet
+➡️ pip install lolcat
 
-pip install subprocess
+➡️ pip install figlet
+
+➡️ pip install subprocess
